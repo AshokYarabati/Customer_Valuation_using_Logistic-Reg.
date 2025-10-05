@@ -10,8 +10,8 @@ A classification project predicting high-value customers using logistic regressi
 - **Business Logic**: Tiered acquisition strategy based on predicted probabilities
 
 ---
-## 📁 Files
-`telco_churn.csv` — Dataset sourced from IBM Telco Churn repository
+## 📁 Data Source
+`telco_churn.csv` — Dataset sourced from IBM Telco Churn Kaggle through LINK.
 
 ---
 ## 🧾 Final Summary
